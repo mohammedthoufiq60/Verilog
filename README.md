@@ -50,19 +50,19 @@ Verilog/
 
 
 
-\- ✅ Day 01 - AND Gate
+\-  Day 01 - AND Gate
 
-\- ✅ Day 02 - OR Gate
+\-  Day 02 - OR Gate
 
-\- ⏳ Day 03 - NOT Gate
+\-  Day 03 - NOT Gate
 
-\- ⏳ Day 04 - NAND Gate
+\-  Day 04 - NAND Gate
 
-\- ⏳ Day 05 - NOR Gate
+\-  Day 05 - NOR Gate
 
-\- ⏳ Day 06 - XOR Gate
+\-  Day 06 - XOR Gate
 
-\- ⏳ Day 07 - XNOR Gate
+\-  Day 07 - XNOR Gate
 
 
 
