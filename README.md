@@ -64,7 +64,7 @@ Verilog/
 
 \-  Day 07 - XNOR Gate
 
-
+\-  Day 08 - Half Adder
 
 More modules and projects will be added as I continue learning Verilog HDL and RTL Design.
 
