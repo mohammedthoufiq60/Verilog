@@ -70,6 +70,7 @@ Verilog/
 
 \- Day 10 - Half Subtractor 
 
+\- Day 11 - Full Subtractor 
 
 
 More modules and projects will be added as I continue learning Verilog HDL and RTL Design.
