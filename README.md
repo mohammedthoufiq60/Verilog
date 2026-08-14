@@ -72,6 +72,10 @@ Verilog/
 
 \- Day 11 - Full Subtractor 
 
+\- Day 12 - 2:1 Multiplexer
+
+
+
 
 More modules and projects will be added as I continue learning Verilog HDL and RTL Design.
 
